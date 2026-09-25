@@ -8,12 +8,16 @@ I'm currently developing my software development skills through the Mission Read
 
 ## 🛠️ Technologies & Tools
 
-* **Frontend:** HTML, CSS, JavaScript, React
-* **Backend:** Node.js, Express
-* **Databases:** MongoDB
-* **Mapping:** MapLibre
-* **Version Control:** Git, GitHub
-* **Development:** REST APIs, responsive design, component-based development
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, MySQL
+- **API & Testing:** REST APIs, Postman
+- **Cloud & AI:** Microsoft Azure
+- **Design:** Figma
+- **Containers:** Docker
+- **Version Control:** Git, GitHub
+- **Mapping:** MapLibre
+- **Development:** Responsive design, component-based development
 
 ## 💻 Level 4 Projects
 
