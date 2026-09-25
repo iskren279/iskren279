@@ -11,13 +11,15 @@ I'm currently developing my software development skills through the Mission Read
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, MySQL
-- **API & Testing:** REST APIs, Postman
-- **Cloud & AI:** Microsoft Azure
-- **Design:** Figma
-- **Containers:** Docker
+- **APIs & Testing:** REST APIs, Postman, TDD
+- **Cloud & DevOps:** Microsoft Azure, Docker, CI/CD
+- **AI:** Generative AI, AI integration
+- **Design:** Figma, Design Thinking
 - **Version Control:** Git, GitHub
 - **Mapping:** MapLibre
 - **Development:** Responsive design, component-based development
+- **Practices:** Agile, Scrum, software development best practices
+- **Security:** Cybersecurity principles
 
 ## 💻 Level 4 Projects
 
