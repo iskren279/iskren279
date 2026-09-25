@@ -4,7 +4,7 @@
 
 I'm a Full-Stack Developer who enjoys building responsive web applications and working across both frontend and backend technologies.
 
-I'm currently developing my software development skills through the Mission Ready programme, where I've worked on a range of individual and team projects involving web development, APIs, databases, Git, and cloud technologies.
+I've developed my software development skills through the Mission Ready programme, completing a range of individual and team projects involving web development, APIs, databases, Git, cloud technologies, AI, and DevOps.
 
 ## 🛠️ Technologies & Tools
 
