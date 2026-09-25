@@ -15,11 +15,51 @@ I'm currently developing my software development skills through the Mission Read
 * **Version Control:** Git, GitHub
 * **Development:** REST APIs, responsive design, component-based development
 
-## 🚀 Featured Projects
+## 🚀 Mission Ready Projects
 
-### ⚡ Z Energy — Mission 5 Phase 2
+### Mission 1 — Turners Car Insurance AI
 
-A team full-stack web application based on the Z Energy customer experience.
+An AI-powered vehicle recognition prototype developed for Turners Car Insurance. Users can upload a vehicle image, which is analysed using Microsoft Azure AI Vision to identify vehicle type, possible brands, and colour.
+
+**Technologies:** Python, Flask, Microsoft Azure AI Vision, HTML, CSS, Git/GitHub
+
+[View Mission 1 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-1-iskren279)
+
+### Mission 2 — Car Insurance API
+
+A REST API for calculating car insurance-related values and ratings. The project includes APIs for car value, risk rating, quotes, and discount rates, with testing and a feature-branch/Pull Request workflow.
+
+**Technologies:** Node.js, Express, REST APIs, JavaScript, testing, Git/GitHub
+
+[View Mission 2 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-2-bu-missionreadyhq)
+
+### Mission 3 — AI-Powered Full-Stack Application
+
+A full-stack web application combining a React frontend with an Express backend and Google Gemini AI integration.
+
+**Technologies:** React, Vite, Express, Google Gemini AI, JavaScript, Git/GitHub
+
+[View Mission 3 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-3-bu-missionreadyhq)
+
+### Mission 4 — Turners Tina AI Insurance
+
+A full-stack insurance application incorporating an AI-powered chat experience to support users with insurance-related questions.
+
+**Technologies:** React, Node.js, Express, Gemini API, JavaScript, Git/GitHub
+
+[View Mission 4 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-4-iskren279)
+
+### Mission 5 Phase 1 — Trade Me
+
+A full-stack project involving auction data, search functionality, REST APIs, and MongoDB database integration.
+
+**Technologies:** JavaScript, Node.js, Express, MongoDB, REST APIs, Git/GitHub
+
+[View Mission 5 Phase 1 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-1-iskren279)
+
+### Mission 5 Phase 2 — Z Energy
+
+A team full-stack web application based on the Z Energy customer experience, including a responsive landing page and station locator functionality.
 
 **My contributions included:**
 
@@ -28,27 +68,13 @@ A team full-stack web application based on the Z Energy customer experience.
 * Building and improving the station locator experience
 * Working with React components and routing
 * Integrating frontend functionality with backend station data
-* Using Git and GitHub branches and pull requests as part of a team workflow
+* Using Git and GitHub branches and Pull Requests as part of a team workflow
 
-[View Z Energy Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-2-bu-missionreadyhq)
+**Technologies:** React, Express, MongoDB, MapLibre, JavaScript, Git/GitHub
 
-### 🛒 Trade Me — Mission 5 Phase 1
+[View Mission 5 Phase 2 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-2-bu-missionreadyhq)
 
-A full-stack project involving auction data, search functionality, APIs, and MongoDB.
-
-**Technologies:** JavaScript, Node.js, Express, MongoDB
-
-[View Trade Me Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-1-iskren279)
-
-### 🤖 Turners — Tina AI Insurance
-
-A full-stack insurance application incorporating an AI-powered chat experience.
-
-**Technologies:** React, Node.js, Express, Gemini API
-
-[View Turners Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-4-iskren279)
-
-## 🎓 Mission Ready Projects
+## 🎓 Mission Ready Skills
 
 I've developed projects throughout the Mission Ready programme covering:
 
@@ -70,4 +96,4 @@ I'm continuing to build my full-stack development skills, improve my portfolio, 
 ## 📫 Connect
 
 * **GitHub:** [github.com/iskren279](https://github.com/iskren279)
-* **LinkedIn:** [https://www.linkedin.com/feed/](https://www.linkedin.com/in/iskren-petrov-364a52250/)
+* **LinkedIn:** [linkedin.com/in/iskren-petrov-364a52250](https://www.linkedin.com/in/iskren-petrov-364a52250/)
