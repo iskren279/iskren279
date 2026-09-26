@@ -114,7 +114,7 @@ A team full-stack web application based on the Z Energy customer experience, inc
 
 ## 📚 Additional Udemy Projects
 
-Additional web development projects completed through Udemy training and independent practice, demonstrating practical experience with JavaScript, DOM manipulation, event handling and interactive web applications.
+Additional web development projects completed through Udemy training and independent practice, demonstrating practical experience with JavaScript, DOM manipulation, event handling, APIs, maps, geolocation and interactive web applications.
 
 ### Guess My Number!
 
@@ -139,6 +139,41 @@ An interactive two-player dice game built with JavaScript, demonstrating game lo
 **Technologies:** HTML, CSS, JavaScript
 
 [View Live Project](https://iskren500.github.io/Pig-Game/) | [View Source Code](https://github.com/iskren500/Pig-Game)
+
+### Bankist App
+
+A banking application demonstrating user authentication, account transactions, transfers, loans, balance calculations and application state management.
+
+**Technologies:** HTML, CSS, JavaScript
+
+**Demo login:** Username: `js` | Password: `1111`
+
+[View Live Project](https://bankist.netlify.app/)
+
+### Bankist Website
+
+A responsive banking website demonstrating advanced DOM manipulation, smooth scrolling, navigation, sliders, lazy loading and interactive UI components.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[View Live Project](https://bankist-dom.netlify.app/)
+
+### Mapty App
+
+A map-based workout application that allows users to record and display running and cycling workouts using an interactive map and geolocation.
+
+**Technologies:** HTML, CSS, JavaScript, Leaflet, Geolocation
+
+[View Live Project](https://mapty.netlify.app/)
+
+### Forkify Application
+
+A recipe search application demonstrating API integration, asynchronous JavaScript, recipe searching, data rendering and application state management.
+
+**Technologies:** HTML, CSS, JavaScript, REST API
+
+[View Live Project](https://forkify-v2-netlify.app/)
+::
 
 
 ## 🎓 Mission Ready Skills
