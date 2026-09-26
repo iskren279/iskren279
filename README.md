@@ -112,11 +112,13 @@ A team full-stack web application based on the Z Energy customer experience, inc
 
 [View Mission 5 Phase 2 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-2-bu-missionreadyhq)
 
-## 📚 Additional Udemy Projects
+## 📚 Additional Learning Projects
 
-Additional web development projects completed through Udemy training and independent practice, demonstrating practical experience with JavaScript, DOM manipulation, event handling, APIs, maps, geolocation and interactive web applications.
+Additional web development projects completed through Udemy training, freeCodeCamp's Responsive Web Design curriculum and independent practice. These projects demonstrate practical experience with HTML, CSS, JavaScript, DOM manipulation, event handling, APIs, maps, geolocation and interactive web applications.
 
-### Guess My Number!
+### Udemy Projects
+
+#### Guess My Number!
 
 A JavaScript-based number guessing game demonstrating interactive user input, DOM manipulation and game logic.
 
@@ -124,7 +126,7 @@ A JavaScript-based number guessing game demonstrating interactive user input, DO
 
 [View Live Project](https://iskren500.github.io/Guess-my-number/) | [View Source Code](https://github.com/iskren500/Guess-my-number)
 
-### Modal Window
+#### Modal Window
 
 An interactive JavaScript UI project demonstrating DOM manipulation, event handling and user interaction.
 
@@ -132,7 +134,7 @@ An interactive JavaScript UI project demonstrating DOM manipulation, event handl
 
 [View Live Project](https://iskren500.github.io/Modal-Window/) | [View Source Code](https://github.com/iskren500/Modal-Window)
 
-### Pig Game
+#### Pig Game
 
 An interactive two-player dice game built with JavaScript, demonstrating game logic, DOM manipulation, event handling and user interaction.
 
@@ -140,7 +142,7 @@ An interactive two-player dice game built with JavaScript, demonstrating game lo
 
 [View Live Project](https://iskren500.github.io/Pig-Game/) | [View Source Code](https://github.com/iskren500/Pig-Game)
 
-### Bankist App
+#### Bankist App
 
 A banking application demonstrating user authentication, account transactions, transfers, loans, balance calculations and application state management.
 
@@ -150,30 +152,55 @@ A banking application demonstrating user authentication, account transactions, t
 
 [View Live Project](https://bankist.netlify.app/)
 
-### Bankist Website
+#### Bankist Website
 
-A responsive banking website demonstrating advanced DOM manipulation, smooth scrolling, navigation, sliders, lazy loading and interactive UI components.
+A responsive banking website demonstrating DOM manipulation, smooth scrolling, navigation, sliders, lazy loading and interactive UI components.
 
 **Technologies:** HTML, CSS, JavaScript
 
 [View Live Project](https://bankist-dom.netlify.app/)
 
-### Mapty App
+#### Mapty App
 
-A map-based workout application that allows users to record and display running and cycling workouts using an interactive map and geolocation.
+A map-based workout application allowing users to record and display running and cycling workouts using an interactive map and geolocation.
 
 **Technologies:** HTML, CSS, JavaScript, Leaflet, Geolocation
 
 [View Live Project](https://mapty.netlify.app/)
 
-### Forkify Application
+#### Forkify Application
 
 A recipe search application demonstrating API integration, asynchronous JavaScript, recipe searching, data rendering and application state management.
 
 **Technologies:** HTML, CSS, JavaScript, REST API
 
 [View Live Project](https://forkify-v2-netlify.app/)
-::
+
+### FreeCodeCamp Projects
+
+#### Cat Photo App
+
+An HTML project focused on building a structured webpage using HTML elements, links, images, lists and forms.
+
+[View Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-71?messages=success%5B0%5D%3Dflash.signin-success)
+
+#### CSS Colour Markers
+
+A CSS project focused on creating and styling coloured markers using CSS colours, gradients, RGB values and styling techniques.
+
+[View Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-94)
+
+#### Registration Form
+
+A registration form project built using HTML and CSS, demonstrating form elements, input fields, labels and CSS styling.
+
+[View Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-65)
+
+
+
+
+
+
 
 
 ## 🎓 Mission Ready Skills
