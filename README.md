@@ -112,6 +112,35 @@ A team full-stack web application based on the Z Energy customer experience, inc
 
 [View Mission 5 Phase 2 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-2-bu-missionreadyhq)
 
+## 📚 Additional Udemy Projects
+
+Additional web development projects completed through Udemy training and independent practice, demonstrating practical experience with JavaScript, DOM manipulation, event handling and interactive web applications.
+
+### Guess My Number!
+
+A JavaScript-based number guessing game demonstrating interactive user input, DOM manipulation and game logic.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[View Live Project](https://iskren500.github.io/Guess-my-number/) | [View Source Code](https://github.com/iskren500/Guess-my-number)
+
+### Modal Window
+
+An interactive JavaScript UI project demonstrating DOM manipulation, event handling and user interaction.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[View Live Project](https://iskren500.github.io/Modal-Window/) | [View Source Code](https://github.com/iskren500/Modal-Window)
+
+### Pig Game
+
+An interactive two-player dice game built with JavaScript, demonstrating game logic, DOM manipulation, event handling and user interaction.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[View Live Project](https://iskren500.github.io/Pig-Game/) | [View Source Code](https://github.com/iskren500/Pig-Game)
+
+
 ## 🎓 Mission Ready Skills
 
 I've developed projects throughout the Mission Ready programme covering:
