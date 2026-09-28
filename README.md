@@ -49,7 +49,7 @@ A backend application developed as part of the Mission Ready Level 4 programme.
 
 **Mission X Full-Stack Web Application** — Built a full-stack application using React, JavaScript, Vite, Node.js and Express, with separate frontend and backend applications.
 
-[Frontend Repository](https://github.com/Mission-Ready/2604-L4FT22-missionx-frontend-t2) | [Backend Repository]((https://github.com/Mission-Ready/2604-L4FT22-missionx-backend-t2))
+[Frontend Repository](https://github.com/Mission-Ready/2604-L4FT22-missionx-frontend-t2) | [Backend Repository](https://github.com/Mission-Ready/2604-L4FT22-missionx-backend-t2)
 
 
 ## 🚀 Level 5 Projects
