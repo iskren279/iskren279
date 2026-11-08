@@ -123,6 +123,11 @@ A team full-stack web application based on the Z Energy customer experience, inc
 
 Additional web development projects completed through Udemy training, freeCodeCamp's Responsive Web Design curriculum and independent practice. These projects demonstrate practical experience with HTML, CSS, JavaScript, DOM manipulation, event handling, APIs, maps, geolocation and interactive web applications.
 
+### AI Gym Coach – AI-Powered Workout Generator
+- Developed a full-stack AI workout generator using React, Vite, Node.js and Express.
+- Integrated Google Gemini AI to generate personalised workout recommendations.
+- GitHub: [AI Gym Coach](https://github.com/iskren279/ai-gym-coach)
+
 ### Udemy Projects
 
 #### Guess My Number!
