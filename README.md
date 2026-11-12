@@ -186,7 +186,7 @@ A recipe search application demonstrating API integration, asynchronous JavaScri
 
 **Technologies:** HTML, CSS, JavaScript, REST API
 
-[View Live Project]([https://forkify-v2-netlify.app/](https://unique-cendol-a0eb87.netlify.app/])
+[View Live Project](https://unique-cendol-a0eb87.netlify.app/)
 
 ### FreeCodeCamp Projects
 
