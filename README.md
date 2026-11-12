@@ -53,7 +53,6 @@ A full-stack application developed as part of the Mission Ready Level 4 programm
 
 [Frontend Repository](https://github.com/Mission-Ready/2604-L4FT22-missionx-frontend-t2) | [Backend Repository](https://github.com/Mission-Ready/2604-L4FT22-missionx-backend-t2)
 
-
 ## 🚀 Level 5 Projects
 
 ### Mission 0 — Marketing Website
@@ -100,7 +99,7 @@ A full-stack project involving auction data, search functionality, REST APIs, an
 
 **Technologies:** JavaScript, Node.js, Express, MongoDB, REST APIs, Git/GitHub
 
-[View Mission 5 Phase 1 Project](https://github.com/iskren279/l5-adv-2026-jul-l5-adv-mission-5-phase-1-iskren279)
+[View Mission 5 Phase 1 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-1-iskren279)
 
 ### Mission 5 Phase 2 — Z Energy
 
@@ -108,12 +107,12 @@ A team full-stack web application based on the Z Energy customer experience, inc
 
 **My contributions included:**
 
-* Developing the landing page
-* Implementing responsive layouts
-* Building and improving the station locator experience
-* Working with React components and routing
-* Integrating frontend functionality with backend station data
-* Using Git and GitHub branches and Pull Requests as part of a team workflow
+- Developing the landing page
+- Implementing responsive layouts
+- Building and improving the station locator experience
+- Working with React components and routing
+- Integrating frontend functionality with backend station data
+- Using Git and GitHub branches and Pull Requests as part of a team workflow
 
 **Technologies:** React, Express, MongoDB, MapLibre, JavaScript, Git/GitHub
 
@@ -121,9 +120,10 @@ A team full-stack web application based on the Z Energy customer experience, inc
 
 ## 📚 Additional Learning Projects
 
-Additional web development projects completed through Mission ready HQ, Udemy training, freeCodeCamp's Responsive Web Design curriculum and independent practice. These projects demonstrate practical experience with HTML, CSS, JavaScript, DOM manipulation, event handling, APIs, maps, geolocation and interactive web applications.
+Additional web development projects completed through Mission Ready HQ, Udemy training, freeCodeCamp's Responsive Web Design curriculum and independent practice. These projects demonstrate practical experience with HTML, CSS, JavaScript, DOM manipulation, event handling, APIs, maps, geolocation and interactive web applications.
 
 ### AI Gym Coach – AI-Powered Workout Generator
+
 - Developed a full-stack AI workout generator using React, Vite, Node.js and Express.
 - Integrated Google Gemini AI to generate personalised workout recommendations.
 - GitHub: [AI Gym Coach](https://github.com/iskren279/ai-gym-coach)
@@ -208,27 +208,20 @@ A registration form project built using HTML and CSS, demonstrating form element
 
 [View Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-65)
 
-
-
-
-
-
-
-
 ## 🎓 Mission Ready Skills
 
 I've developed projects throughout the Mission Ready programme covering:
 
-* Web development
-* Frontend development
-* Backend development
-* REST APIs
-* Database integration
-* AI integration
-* Responsive UI development
-* Git and GitHub collaboration
-* Agile teamwork
-* Deployment and cloud technologies
+- Web development
+- Frontend development
+- Backend development
+- REST APIs
+- Database integration
+- AI integration
+- Responsive UI development
+- Git and GitHub collaboration
+- Agile teamwork
+- Deployment and cloud technologies
 
 ## 📌 Currently
 
@@ -236,5 +229,5 @@ I'm continuing to build my full-stack development skills, improve my portfolio, 
 
 ## 📫 Connect
 
-* **GitHub:** [github.com/iskren279](https://github.com/iskren279)
-* **LinkedIn:** [linkedin.com/in/iskren-petrov-364a52250](https://linkedin.com/in/iskren-petrov-364a52250/)
+- **GitHub:** [github.com/iskren279](https://github.com/iskren279)
+- **LinkedIn:** [linkedin.com/in/iskren-petrov-364a52250](https://linkedin.com/in/iskren-petrov-364a52250/)
