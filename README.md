@@ -33,7 +33,7 @@ A website project developed as part of the Mission Ready Level 4 programme.
 
 A personal finance tracking application developed as part of the Mission Ready Level 4 programme.
 
-[View Mission 2 Project](https://github.com/iskren279/Mission2)
+[View Live Project](https://mission-2-personal-finance-tracker.netlify.app/) | [View Source Code](https://github.com/iskren279/Mission2)
 
 ### Mission 3 — Level Up Works Frontend
 
