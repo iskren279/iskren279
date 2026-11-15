@@ -27,7 +27,7 @@ I've developed my software development skills through the Mission Ready programm
 
 A website project developed as part of the Mission Ready Level 4 programme.
 
-[View Mission 1 Project](https://github.com/iskren279/Finished-mission-1)
+[View Live Project](https://mission-1-podiatry-website.netlify.app/) | [View Source Code](https://github.com/iskren279/Finished-mission-1)
 
 ### Mission 2 — Personal Finance Tracker
 
