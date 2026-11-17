@@ -39,8 +39,6 @@ A personal finance tracking application developed as part of the Mission Ready L
 
 A frontend application developed as part of the Mission Ready Level 4 programme.
 
-**Live Demo:** https://mission-3-level-up-works.netlify.app/
-
 [View Live Project](https://mission-3-level-up-works.netlify.app/) | [View Source Code](https://github.com/iskren279/mission-3-level-up-works-frontend)
 
 ### Mission 4 — Level Up Works Backend
