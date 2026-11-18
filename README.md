@@ -65,9 +65,9 @@ A backend application developed as part of the Mission Ready Level 4 programme u
 
 ### Mission 0 — Marketing Website
 
-A responsive marketing website developed as part of the Mission Ready Level 5 programme.
+A responsive marketing website developed as part of the Mission Ready Level 5 programme using React, JavaScript and Vite.
 
-[View Mission 0 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-0-iskren279)
+[View Live Project](https://mission-0-marketing-website.netlify.app/) | [View Source Code](https://github.com/iskren279/mission-0-marketing-website)
 
 ### Mission 1 — Turners Car Insurance AI
 
