@@ -60,11 +60,6 @@ A backend application developed as part of the Mission Ready Level 4 programme u
 [View Live Project](https://mission-x-backend-8cpa.onrender.com/) | [View Source Code](https://github.com/iskren279/mission-x-backend)
 
 
-### Mission X — Full-Stack Web Application
-
-A full-stack application developed as part of the Mission Ready Level 4 programme using React, JavaScript, Vite, Node.js and Express.
-
-[Frontend Repository](https://github.com/Mission-Ready/2604-L4FT22-missionx-frontend-t2) | [Backend Repository](https://github.com/Mission-Ready/2604-L4FT22-missionx-backend-t2)
 
 ## 🚀 Level 5 Projects
 
