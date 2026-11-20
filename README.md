@@ -71,21 +71,12 @@ A responsive marketing website developed as part of the Mission Ready Level 5 pr
 
 ### Mission 1 — Turners Insurance AI
 
-An AI-powered vehicle recognition application developed as part of the Mission Ready Level 5 programme.
-
-[View Live Project](https://turners-insurance-ai-ss6pvsh62wcp6favfdct3g.streamlit.app) | [View Source Code](https://github.com/iskren279/Turners-Insurance-AI)
-
-
-
-
-
-### Mission 1 — Turners Car Insurance AI
-
 An AI-powered vehicle recognition prototype developed for Turners Car Insurance. Users can upload a vehicle image, which is analysed using Microsoft Azure AI Vision to identify vehicle type, possible brands, and colour.
 
 **Technologies:** Python, Flask, Microsoft Azure AI Vision, HTML, CSS, Git/GitHub
 
-[View Mission 1 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-1-iskren279)
+[View Live Project](https://turners-insurance-ai-ss6pvsh62wcp6favfdct3g.streamlit.app) | [View Source Code](https://github.com/iskren279/Turners-Insurance-AI)
+
 
 ### Mission 2 — Car Insurance API
 
