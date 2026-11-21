@@ -77,6 +77,16 @@ An AI-powered vehicle recognition prototype developed for Turners Car Insurance.
 
 [View Live Project](https://turners-insurance-ai-ss6pvsh62wcp6favfdct3g.streamlit.app) | [View Source Code](https://github.com/iskren279/Turners-Insurance-AI)
 
+### Mission 2 — Car Insurance API
+A REST API for calculating car insurance-related values and ratings. The project includes APIs for car value, risk rating, quotes, and discount rates, with testing and a feature-branch/Pull Request workflow.
+
+**Technologies:** Node.js, Express, REST APIs, JavaScript, testing, Git/GitHub
+
+[View Live Project](https://mission-2-car-insurance-api.onrender.com) | [View Source Code](https://github.com/iskren279/mission-2-car-insurance-api)
+
+
+
+
 
 ### Mission 2 — Car Insurance API
 
