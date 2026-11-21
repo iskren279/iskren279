@@ -91,7 +91,7 @@ A full-stack web application combining a React frontend with an Express backend 
 
 **Technologies:** React, Vite, Express, Google Gemini AI, JavaScript, Git/GitHub
 
-[View Mission 3 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-3-bu-missionreadyhq)
+[View Live Project](https://mission-3-ai-powered-full-stack.netlify.app/) | [View Source Code](https://github.com/iskren279/mission-3-ai-powered-full-stack-application)
 
 ### Mission 4 — Turners Tina AI Insurance
 
