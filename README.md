@@ -99,7 +99,6 @@ An AI-powered car insurance assistant built with React, Node.js, Express and Goo
 
 [View Live Project](https://mission-4-turners-tina-ai-insurance.netlify.app/) | [View Source Code](https://github.com/iskren279/mission-4-turners-tina-ai-insurance)
 
-[View Mission 4 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-4-iskren279)
 
 ### Mission 5 Phase 1 — Trade Me
 
