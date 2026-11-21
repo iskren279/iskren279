@@ -85,17 +85,6 @@ A REST API for calculating car insurance-related values and ratings. The project
 [View Live Project](https://mission-2-car-insurance-api.onrender.com) | [View Source Code](https://github.com/iskren279/mission-2-car-insurance-api)
 
 
-
-
-
-### Mission 2 — Car Insurance API
-
-A REST API for calculating car insurance-related values and ratings. The project includes APIs for car value, risk rating, quotes, and discount rates, with testing and a feature-branch/Pull Request workflow.
-
-**Technologies:** Node.js, Express, REST APIs, JavaScript, testing, Git/GitHub
-
-[View Mission 2 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-2-bu-missionreadyhq)
-
 ### Mission 3 — AI-Powered Full-Stack Application
 
 A full-stack web application combining a React frontend with an Express backend and Google Gemini AI integration.
