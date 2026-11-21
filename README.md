@@ -97,7 +97,7 @@ A full-stack web application combining a React frontend with an Express backend 
 
 An AI-powered car insurance assistant built with React, Node.js, Express and Google Gemini for Turners.
 
-[View Live Project](YOUR_NETLIFY_URL) | [View Source Code](https://github.com/iskren279/mission-4-turners-tina-ai-insurance)
+[View Live Project](https://mission-4-turners-tina-ai-insurance.netlify.app/) | [View Source Code](https://github.com/iskren279/mission-4-turners-tina-ai-insurance)
 
 [View Mission 4 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-4-iskren279)
 
