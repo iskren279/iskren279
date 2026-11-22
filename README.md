@@ -106,7 +106,7 @@ A full-stack project involving auction data, search functionality, REST APIs, an
 
 **Technologies:** JavaScript, Node.js, Express, MongoDB, REST APIs, Git/GitHub
 
-[View Mission 5 Phase 1 Project](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-1-iskren279)
+[View Source Code](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-1-iskren279)
 
 ### Mission 5 Phase 2 — Z Energy
 
