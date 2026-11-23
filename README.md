@@ -100,11 +100,13 @@ An AI-powered car insurance assistant built with React, Node.js, Express and Goo
 [View Live Project](https://mission-4-turners-tina-ai-insurance.netlify.app/) | [View Source Code](https://github.com/iskren279/mission-4-turners-tina-ai-insurance)
 
 
-### Mission 5 Phase 1 — Trade Me
+### Mission 5 Phase 1 — Trade Me Auctions
 
 A full-stack project involving auction data, search functionality, REST APIs, and MongoDB database integration.
 
 **Technologies:** JavaScript, Node.js, Express, MongoDB, REST APIs, Git/GitHub
+
+How to access: This is a command-line application rather than a browser-based website, so it does not have a live project link. To explore and run the application, open the GitHub repository and follow the setup and installation instructions in the README file.
 
 [View Source Code](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-1-iskren279)
 
