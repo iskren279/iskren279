@@ -125,19 +125,20 @@ A team full-stack web application based on the Z Energy customer experience, inc
 
 **Technologies:** React, Express, MongoDB, MapLibre, JavaScript, Git/GitHub
 
-- **[View Live Project](https://z-energy-station-finder.netlify.app/)**
-- **[View Source Code](https://github.com/iskren279/Z-energy)**
+- **[View Live Project](https://z-energy-station-finder.netlify.app/)** **[View Source Code](https://github.com/iskren279/Z-energy)**
   
 
 ## 📚 Additional Learning Projects
 
 Additional web development projects completed through Mission Ready HQ, Udemy training, freeCodeCamp's Responsive Web Design curriculum and independent practice. These projects demonstrate practical experience with HTML, CSS, JavaScript, DOM manipulation, event handling, APIs, maps, geolocation and interactive web applications.
 
-### AI Gym Coach – AI-Powered Workout Generator
+### AI Gym Coach — AI-Powered Workout Generator
 
-- Developed a full-stack AI workout generator using React, Vite, Node.js and Express.
-- Integrated Google Gemini AI to generate personalised workout recommendations.
-- GitHub: [AI Gym Coach](https://github.com/iskren279/ai-gym-coach)
+A full-stack web application that uses Google Gemini AI to generate personalised gym workouts based on the user's fitness goals, experience level and available equipment.
+
+**Technologies:** React, Vite, Node.js, Express, Google Gemini AI, JavaScript, REST APIs, Git/GitHub
+
+[View Live Project](https://iskren-ai-gym-coach.netlify.app/) | [View Source Code](https://github.com/iskren279/ai-gym-coach)
 
 ### Udemy Projects
 
