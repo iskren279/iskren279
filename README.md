@@ -125,7 +125,7 @@ A team full-stack web application based on the Z Energy customer experience, inc
 
 **Technologies:** React, Express, MongoDB, MapLibre, JavaScript, Git/GitHub
 
-- **[View Live Project](https://z-energy-station-finder.netlify.app/)** **[View Source Code](https://github.com/iskren279/Z-energy)**
+- **[View Live Project](https://z-energy-station-finder.netlify.app/)**|**[View Source Code](https://github.com/iskren279/Z-energy)**
   
 
 ## 📚 Additional Learning Projects
