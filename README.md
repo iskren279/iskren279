@@ -125,7 +125,7 @@ A team full-stack web application based on the Z Energy customer experience, inc
 
 **Technologies:** React, Express, MongoDB, MapLibre, JavaScript, Git/GitHub
 
-- **[View Live Project](https://z-energy-station-finder.netlify.app/)** | **[View Source Code](https://github.com/iskren279/Z-energy)**
+- [View Live Project](https://z-energy-station-finder.netlify.app/) | [View Source Code](https://github.com/iskren279/Z-energy)
   
 
 ## 📚 Additional Learning Projects
@@ -174,7 +174,7 @@ A banking application demonstrating user authentication, account transactions, t
 
 **Demo login:** Username: `js` | Password: `1111`
 
-[View Live Project](https://bankist.netlify.app/)
+[View Live Project](https://bankist.netlify.app/) |  [View Source Code](https://github.com/iskren279/bankist-map)
 
 #### Bankist Website
 
@@ -183,12 +183,6 @@ A responsive banking website demonstrating DOM manipulation, smooth scrolling, n
 **Technologies:** HTML, CSS, JavaScript
 
 [View Live Project](https://bankist-dom.netlify.app/)
-
-### Bankist Map
-
-An interactive map application built with JavaScript, featuring map visualisation and interactive functionality.
-
-[View Live Project](YOUR-LIVE-PROJECT-LINK) | [View Source Code](https://github.com/iskren279/bankist-map)
 
 #### Mapty App
 
