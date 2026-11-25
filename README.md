@@ -184,6 +184,12 @@ A responsive banking website demonstrating DOM manipulation, smooth scrolling, n
 
 [View Live Project](https://bankist-dom.netlify.app/)
 
+### Bankist Map
+
+An interactive map application built with JavaScript, featuring map visualisation and interactive functionality.
+
+[View Live Project](YOUR-LIVE-PROJECT-LINK) | [View Source Code](https://github.com/iskren279/bankist-map)
+
 #### Mapty App
 
 A map-based workout application allowing users to record and display running and cycling workouts using an interactive map and geolocation.
