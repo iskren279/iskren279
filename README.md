@@ -182,7 +182,7 @@ A responsive banking website demonstrating DOM manipulation, smooth scrolling, n
 
 **Technologies:** HTML, CSS, JavaScript
 
-[View Live Project](https://bankist-dom.netlify.app/)
+[View Live Project](https://bankist-dom.netlify.app/) | [View Source Code](https://github.com/iskren279/bankist-website-)
 
 #### Mapty App
 
