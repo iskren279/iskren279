@@ -190,7 +190,7 @@ A map-based workout application allowing users to record and display running and
 
 **Technologies:** HTML, CSS, JavaScript, Leaflet, Geolocation
 
-[View Live Project](https://mapty.netlify.app/) | [View Source Code](https://github.com/iskren279/Mapty)
+[View Live Project](https://iskren-mapty.netlify.app/) | [View Source Code](https://github.com/iskren279/Mapty)
 
 #### Forkify Application
 
